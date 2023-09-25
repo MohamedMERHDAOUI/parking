@@ -1,0 +1,27 @@
+Compte Rendu de Collaboration sur le Projet de MCD, Maquette et Déploiement avec GitHub
+
+Date : 18.09.2023
+
+Participants :
+
+•	Dinura
+.	Jawed
+•	Mohamed
+
+Contexte : Nous avons entrepris une collaboration pour développer un système de réservation de places de parking, en commençant par la conception du modèle conceptuel de données (MCD), la création de maquettes et le déploiement du projet. Nous avons également utilisé GitHub pour faciliter la collaboration et la gestion du code source.
+
+Travail Réalisé :
+
+1.	Conception du Modèle Conceptuel de Données (MCD) :
+•	Nous avons commencé par discuter des exigences du projet et avons élaboré un MCD qui comprenait les entités, les relations et les contraintes nécessaires pour représenter le système de réservation de places de parking.
+
+2.	Création de Maquettes :
+•	Après avoir finalisé le MCD, nous avons travaillé sur la création de maquettes de la page d'accueil et des interfaces utilisateur pour les utilisateurs et les administrateurs.
+
+3.	Déploiement du Projet :
+•	Nous avons collaboré pour déployer le projet.
+
+4.	Collaboration sur GitHub :
+•	Pour faciliter la collaboration et la gestion du code source, nous avons utilisé GitHub.
+•	Nous avons créé un dépôt (repository) GitHub pour le projet et avons collaboré en creant un repo de groupe.
+
